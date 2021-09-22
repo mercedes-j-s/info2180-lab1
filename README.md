@@ -1,2 +1,10 @@
-# info2180-lab1
-This Lab 1 for Mercedes Smith
+# INFO2180 Lab 1
+
+This is Lab 1 for Mercedes Smith
+
+## Branching
+
+Branching allows you to isolate development work without
+affecting other branches in the repository. Each repository
+has one default branch (usually called master), and can have 
+multiple other branches.
